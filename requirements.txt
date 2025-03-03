@@ -1,0 +1,11 @@
+google-cloud-aiplatform
+pymupdf
+numpy
+tqdm
+Pillow
+google-auth
+streamlit
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-bigquery-storage
+google-cloud-aiplatform
